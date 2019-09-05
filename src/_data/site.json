@@ -1,0 +1,57 @@
+{
+  "name": "Pug",
+  "description": "pugの練習用サイト",
+  "keywords": "pug, dev",
+  "rootUrl": "http://example.com/",
+  "ogpImage": "https://placehold.jp/150x150.png",
+  "lists": [
+    {
+      "pageName": "page1",
+      "link": "/page/page1.html",
+      "image": "https://placehold.jp/800x600.png",
+      "text": "test1test1test1"
+    },
+    {
+      "pageName": "page2",
+      "link": "/page/page2.html",
+      "image": "https://placehold.jp/800x600.png",
+      "text": "test2test2test2"
+    },
+    {
+      "pageName": "page3",
+      "link": "/page/page3.html",
+      "image": "https://placehold.jp/800x600.png",
+      "text": "test3"
+    },
+    {
+      "pageName": "page4",
+      "link": "/page/page4.html",
+      "image": "https://placehold.jp/800x600.png",
+      "text": "test4"
+    },
+    {
+      "pageName": "page5",
+      "link": "/page/page5.html",
+      "image": "https://placehold.jp/800x600.png",
+      "text": "test5"
+    },
+    {
+      "pageName": "page6",
+      "link": "/page/page6.html",
+      "image": "https://placehold.jp/800x600.png",
+      "text": "test6"
+    },
+    {
+      "pageName": "page7",
+      "link": "/page/page7.html",
+      "image": "https://placehold.jp/800x600.png",
+      "text": "test7"
+    },
+    {
+      "pageName": "page8",
+      "link": "/page/page8.html",
+      "image": "https://placehold.jp/800x600.png",
+      "text": "test8"
+    }
+  ]
+}

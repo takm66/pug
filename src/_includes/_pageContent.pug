@@ -1,0 +1,9 @@
+.inner
+  - var list = site.lists
+  each item in list
+    if item.pageName == pageTitle
+      .inner__box__content
+        h2 #{ item.pageName }
+        a(href=item.link)
+          img(src=item.image alt="")
+          p #{item.text}

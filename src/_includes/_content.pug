@@ -1,0 +1,7 @@
+.inner
+  - var list = site.lists
+  each item in list
+    .inner__box
+      a(href=item.link)
+        img(src=item.image alt="")
+        p #{item.text}
